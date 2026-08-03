@@ -1,6 +1,3 @@
-
-
-```markdown
 <div align="center">
 
 # Dashboard
@@ -31,3 +28,8 @@ The dashboard is designed for business reporting and operational monitoring. It 
 
 ```text
 fraud_kpi_dashboard.py
+```
+
+## Why This Matters
+
+A dashboard shows that the analysis can be converted into a business-facing reporting tool. This is highly relevant for Data Analyst roles where stakeholders need clear and simple KPI monitoring.

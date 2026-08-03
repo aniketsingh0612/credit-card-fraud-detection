@@ -1,5 +1,3 @@
-
-```markdown
 <div align="center">
 
 # Images
@@ -21,3 +19,17 @@ These charts are used in the README, reports, and dashboard to communicate fraud
 ```text
 images/
 └── charts/
+```
+
+## Chart Examples
+
+- Fraud distribution
+- Transaction amount distribution
+- Transactions by hour
+- Fraud by transaction location
+- Device trust score distribution
+- EDA summary
+
+## Why This Matters
+
+Well-organized visual outputs make the project easier to review on GitHub and help recruiters quickly understand the analytical story.

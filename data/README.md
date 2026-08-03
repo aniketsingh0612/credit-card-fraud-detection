@@ -21,3 +21,14 @@ data/
 ├── raw/
 │   └── credit_card_transactions_raw.csv
 └── processed/
+```
+
+## Usage
+
+- `raw/` contains the original transaction dataset.
+- `processed/` will contain cleaned datasets created after data preparation.
+- Raw data should remain unchanged to preserve the original source file.
+
+## Why This Matters
+
+Separating raw and processed data shows a professional analytics workflow and makes the project easier to review, reproduce, and explain in interviews.
