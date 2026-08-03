@@ -29,15 +29,3 @@ KPI Analysis
 Business Insights
 ```
 
-## Suggested Notebook Naming
-
-```text
-01_data_cleaning.ipynb
-02_exploratory_analysis.ipynb
-03_kpi_analysis.ipynb
-04_business_insights.ipynb
-```
-
-## Why This Matters
-
-Numbered notebooks help recruiters and interviewers follow the project flow clearly. They also show that the analysis was completed in a structured and business-focused way.
