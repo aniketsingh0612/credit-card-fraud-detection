@@ -4,6 +4,11 @@
 
 ### Fraud KPI Reporting and Business Monitoring
 
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![KPI](https://img.shields.io/badge/KPI-Monitoring-2E7D32?style=for-the-badge)
+![Reporting](https://img.shields.io/badge/Business-Reporting-1565C0?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Fraud-Analytics-6A1B9A?style=for-the-badge)
+
 </div>
 
 ---
@@ -28,8 +33,3 @@ The dashboard is designed for business reporting and operational monitoring. It 
 
 ```text
 fraud_kpi_dashboard.py
-```
-
-## Why This Matters
-
-A dashboard shows that the analysis can be converted into a business-facing reporting tool. This is highly relevant for Data Analyst roles where stakeholders need clear and simple KPI monitoring.

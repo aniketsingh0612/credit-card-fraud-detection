@@ -4,6 +4,11 @@
 
 ### Raw and Processed Transaction Data
 
+![CSV](https://img.shields.io/badge/CSV-Source%20Data-2E7D32?style=for-the-badge)
+![Data Quality](https://img.shields.io/badge/Data%20Quality-Validation-1565C0?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Preparation-6A1B9A?style=for-the-badge)
+![Analytics Ready](https://img.shields.io/badge/Analytics-Ready-455A64?style=for-the-badge)
+
 </div>
 
 ---
@@ -21,14 +26,3 @@ data/
 ├── raw/
 │   └── credit_card_transactions_raw.csv
 └── processed/
-```
-
-## Usage
-
-- `raw/` contains the original transaction dataset.
-- `processed/` will contain cleaned datasets created after data preparation.
-- Raw data should remain unchanged to preserve the original source file.
-
-## Why This Matters
-
-Separating raw and processed data shows a professional analytics workflow and makes the project easier to review, reproduce, and explain in interviews.
